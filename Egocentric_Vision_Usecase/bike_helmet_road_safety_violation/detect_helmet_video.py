@@ -8,8 +8,6 @@ head detections with vehicles using Intersection over Area (IoA). If a rider
 without a helmet is confirmed with conf > 90% (or custom), crops out the vehicle
 and saves it to a timestamp-named folder. Saves the annotated video with professional overlays.
 
-Author: Antigravity AI
-Date: 2026-06-05
 """
 
 import os
